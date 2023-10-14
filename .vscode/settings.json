@@ -1,0 +1,44 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "C:\\Users\\Daniel\\.espressif\\tools\\xtensa-esp-elf-gdb\\12.1_20221002\\xtensa-esp-elf-gdb\\bin;C:\\Users\\Daniel\\.espressif\\tools\\riscv32-esp-elf-gdb\\12.1_20221002\\riscv32-esp-elf-gdb\\bin;C:\\Users\\Daniel\\.espressif\\tools\\xtensa-esp32-elf\\esp-12.2.0_20230208\\xtensa-esp32-elf\\bin;C:\\Users\\Daniel\\.espressif\\tools\\xtensa-esp32s2-elf\\esp-12.2.0_20230208\\xtensa-esp32s2-elf\\bin;C:\\Users\\Daniel\\.espressif\\tools\\xtensa-esp32s3-elf\\esp-12.2.0_20230208\\xtensa-esp32s3-elf\\bin;C:\\Users\\Daniel\\.espressif\\tools\\riscv32-esp-elf\\esp-12.2.0_20230208\\riscv32-esp-elf\\bin;C:\\Users\\Daniel\\.espressif\\tools\\esp32ulp-elf\\2.35_20220830\\esp32ulp-elf\\bin;C:\\Users\\Daniel\\.espressif\\tools\\cmake\\3.24.0\\bin;C:\\Users\\Daniel\\.espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20230419\\openocd-esp32\\bin;C:\\Users\\Daniel\\.espressif\\tools\\ninja\\1.10.2;C:\\Users\\Daniel\\.espressif\\tools\\idf-exe\\1.0.3;C:\\Users\\Daniel\\.espressif\\tools\\ccache\\4.8\\ccache-4.8-windows-x86_64;C:\\Users\\Daniel\\.espressif\\tools\\dfu-util\\0.11\\dfu-util-0.11-win64;C:\\Users\\Daniel\\.espressif\\tools\\esp-rom-elfs\\20230320",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "C:\\Users\\Daniel\\.espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20230419/openocd-esp32/share/openocd/scripts",
+        "IDF_CCACHE_ENABLE": "1",
+        "ESP_ROM_ELF_DIR": "C:\\Users\\Daniel\\.espressif\\tools\\esp-rom-elfs\\20230320/"
+    },
+    "idf.espIdfPathWin": "C:\\Users\\Daniel\\esp\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-bridge.cfg"
+    ],
+    "idf.pythonBinPathWin": "C:\\Users\\Daniel\\.espressif\\python_env\\idf5.1_py3.8_env\\Scripts\\python.exe",
+    "idf.toolsPathWin": "C:\\Users\\Daniel\\.espressif",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM8",
+    "files.associations": {
+        "stdio.h": "c",
+        "esp_log.h": "c",
+        "esp_err.h": "c",
+        "gpio.h": "c",
+        "esp_rom_gpio.h": "c",
+        "gpio_types.h": "c",
+        "i2c.h": "c",
+        "my_i2c.h": "c",
+        "freertos.h": "c",
+        "queue.h": "c",
+        "my_gpio.h": "c",
+        "main.h": "c",
+        "my_rtos.h": "c",
+        "my_codec.h": "c",
+        "test_hal": "c",
+        "u8g2_esp32_hal.h": "c",
+        "u8g2.h": "c",
+        "task.h": "c",
+        "esp_dsp.h": "c",
+        "dsps_math.h": "c",
+        "dsps_view.h": "c",
+        "dsps_fft2r.h": "c",
+        "cstdlib": "c",
+        "i2s.h": "c"
+    }
+}
